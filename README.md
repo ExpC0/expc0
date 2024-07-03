@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Raduan Islam Rian</h1>
-<h3 align="center">Competitive Programmer, enthusiast to Cyber Security, about to graduate from CSE,KUET</h3>
+<h3 align="center">Competitive Programmer, Enthusiast to Cyber Security, about to graduate from CSE,KUET</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expc0" alt="expc0" /></a> </p>
 
