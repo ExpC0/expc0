@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Kali Linux, Spam Email Classifiers**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/ExpC0](https://github.com/ExpC0?tab=repositories)]([https://github.com/ExpC0](https://github.com/ExpC0?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/ExpC0?tab=repositories](https://github.com/ExpC0?tab=repositories)
 
 - 📫 How to reach me **mdriyen9@gmail.com**
 
