@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mdriyen9@gmail.com**
 
-- 📄 Here is my [CV]([https://github.com/ExpC0](https://github.com/ExpC0/expc0/blob/main/Resume-of-Md-Raduan-Islam-Rian.pdf))
+- 📄 Here is my [CV](https://github.com/ExpC0/expc0/blob/main/Resume-of-Md-Raduan-Islam-Rian.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
