@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/roboryne" target="blank"><img src="https://img.shields.io/twitter/follow/roboryne?logo=twitter&style=for-the-badge" alt="roboryne" /></a> </p>
 
-- 🌱 I’m currently learning **Problem Solving, Cyber Security,Kali Linux, Machine Learning,  Spam Email Classifiers**
+- 🌱 I’m currently learning **Problem Solving, Software Development, Cyber Security, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ExpC0?tab=repositories](https://github.com/ExpC0?tab=repositories)
 
