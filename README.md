@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About me
 
-- 🛰️ **R&D Engineer at [Shanghai BDCOM](https://www.bdcom.com.cn/)** — I develop switch &amp; router firmware on the **VxWorks RTOS** and **embedded Linux**.
+- 🛰️ **R&D Engineer at Shanghai BDCOM** (part of **[FS](https://www.fs.com/)**) — I develop switch &amp; router firmware on the **VxWorks RTOS** and **embedded Linux**.
 - 🌐 Working across the networking control plane, most recently on **DHCPv4 / DHCPv6** for VxWorks and Linux switch/router platforms.
 - 🎓 **B.Sc. in Computer Science &amp; Engineering**, Khulna University of Engineering &amp; Technology (**KUET**).
 - 🧩 500+ competitive-programming problems solved across Codeforces, LeetCode, AtCoder &amp; HackerRank.
