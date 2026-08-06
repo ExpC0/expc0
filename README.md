@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md Raduan Islam Rian 👋</h1>
-<h3 align="center">R&amp;D Engineer · Networking &amp; Embedded Systems</h3>
+<h3 align="center">Software Engineer (R&amp;D) · Networking &amp; Embedded Systems</h3>
 
 <p align="center">
   <a href="https://expc0.github.io"><img src="https://img.shields.io/badge/Portfolio-expc0.github.io-35d0a5?style=for-the-badge" alt="Portfolio" /></a>
