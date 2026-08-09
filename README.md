@@ -135,15 +135,6 @@ I am a product-focused **Software Engineer** who enjoys working across the stack
   <a href="https://www.hackerrank.com/expc00"><img src="https://img.shields.io/badge/HackerRank-expc00-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
----
-
-## GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=expc0&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3a5&text_color=8b949e&icon_color=22d3a5&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=expc0&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3a5&text_color=8b949e&langs_count=8" alt="Most-used languages" />
-</p>
-
 <p align="center">
   <a href="mailto:mdriyen9@gmail.com">Let's build something useful.</a>
 </p>
